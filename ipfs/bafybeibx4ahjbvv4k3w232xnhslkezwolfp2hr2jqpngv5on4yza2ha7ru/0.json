@@ -1,0 +1,2192 @@
+[
+{
+    "id": 1,
+    "title": "What type of sign is this?",
+    "a": "Yield",
+    "b": "Stop",
+    "c": "Slow-moving vehicle",
+    "ans": "a",
+    "pic": "1.webp",
+    "hash": "webp"
+},
+{
+    "id": 2,
+    "title": "What does this regulatory sign mean?",
+    "a": "Road ends",
+    "b": "No U-turn",
+    "c": "Left turn",
+    "ans": "b",
+    "pic": "3.webp",
+    "hash": "webp"
+},
+{
+    "id": 3,
+    "title": "The broken white lines on the pavement mean that",
+    "a": "traffic moves in opposite directions.",
+    "b": "no passing is allowed.",
+    "c": "passing is allowed if done safely.",
+    "ans": "c",
+    "pic": "4.webp",
+    "hash": "webp"
+},
+{
+    "id": 4,
+    "title": "A driver in front of you is signaling with his or her hand and arm pointing upward. This driver wants to",
+    "a": "stop.",
+    "b": "turn right.",
+    "c": "turn left.",
+    "ans": "b",
+    "pic": "5.webp",
+    "hash": "webp"
+},
+{
+    "id": 5,
+    "title": "A double solid white line",
+    "a": "separates opposing lanes, and crossing the line is prohibited.",
+    "b": "separates two lanes traveling in the same direction, and crossing the line is permitted.",
+    "c": "separates two lanes traveling in the same direction, but  crossing the line is prohibited.",
+    "ans": "c",
+    "pic": "2.webp",
+    "hash": "webp"
+},
+{
+    "id": 6,
+    "title": "If your parked car rolls away and hits another unattended vehicle, you should",
+    "a": "sound your horn to attract attention.",
+    "b": "remove your car and go on your way.",
+    "c": "report the incident to the police.",
+    "ans": "c"
+},
+{
+    "id": 7,
+    "title": "When you see livestock near the roadway, you should",
+    "a": "turn safely away from these animals.",
+    "b": "follow directions from the person in charge of the animals.",
+    "c": "blow your horn continuously until the animals cross the road.",
+    "ans": "b"
+},
+{
+    "id": 8,
+    "title": "Locked wheel skids are usually caused by",
+    "a": "turning the ignition to the lock position while the vehicle is still in motion.",
+    "b": "pressing the gas and brake pedals at the same time.",
+    "c": "braking too hard at a high speed.",
+    "ans": "c"
+},
+{
+    "id": 9,
+    "title": "What is the first thing you should do during an enforcement stop?",
+    "a": "turn on your right turn signal.",
+    "b": "stop on the left shoulder.",
+    "c": "stop on the center median.",
+    "ans": "a"
+},
+{
+    "id": 10,
+    "title": "You must turn on your headlights __________ after sunset.",
+    "a": "immediately.",
+    "b": "20 minutes.",
+    "c": "30 minutes.",
+    "ans": "c"
+},
+{
+    "id": 11,
+    "title": "At an unmarked crosswalk, you must",
+    "a": "stop and ask the pedestrians to cross quickly.",
+    "b": "increase your speed and cross before the pedestrians.",
+    "c": "yield the right-of-way to the pedestrians.",
+    "ans": "c"
+},
+{
+    "id": 12,
+    "title": "When you want to enter a freeway, you should",
+    "a": "stop before merging into freeway traffic.",
+    "b": "enter the freeway at or near the speed of freeway traffic.",
+    "c": "stop and yield to the traffic on the freeway.",
+    "ans": "b"
+},
+{
+    "id": 13,
+    "title": "If you are ready to turn right at an intersection, and if there is a bicycle next to you on your right, who has the right-of-way when the light turns green?",
+    "a": "You",
+    "b": "Whoever starts moving first",
+    "c": "The bicycle",
+    "ans": "c"
+},
+{
+    "id": 14,
+    "title": "Special turnout areas marked on a two-lane road",
+    "a": "allow vehicles to make U-turns.",
+    "b": "allow vehicles to make left turns.",
+    "c": "allow vehicles to pass.",
+    "ans": "c"
+},
+{
+    "id": 15,
+    "title": "While driving in fog, you should use your",
+    "a": "low-beam headlights.",
+    "b": "high-beam headlights.",
+    "c": "emergency flashers.",
+    "ans": "a"
+},
+{
+    "id": 16,
+    "title": "When two vehicles meet on a steep mountain road where neither can pass, which vehicle has the right-of-way?",
+    "a": "The vehicle traveling downhill",
+    "b": "The vehicle traveling uphill",
+    "c": "Both vehicles",
+    "ans": "b"
+},
+{
+    "id": 17,
+    "title": "If you are in an intersection when you hear the siren of an emergency vehicle, you should",
+    "a": "continue through the intersection, then move to the left and stop.",
+    "b": "move to the right and stop in the intersection.",
+    "c": "continue through the intersection, then move to the right and stop.",
+    "ans": "c"
+},
+{
+    "id": 18,
+    "title": "Any person who willfully flees or attempts to evade law enforcement performing their duties is guilty of a misdemeanor punishable by",
+    "a": "up to 1 year of imprisonment in a county jail.",
+    "b": "a maximum fine of up to $1,000.",
+    "c": "neither of the above.",
+    "ans": "a"
+},
+{
+    "id": 19,
+    "title": "A ___ painted curb is designated for disabled persons who display their placards.",
+    "a": "white",
+    "b": "green",
+    "c": "blue",
+    "ans": "c"
+},
+{
+    "id": 20,
+    "title": "Which of the following statements about lane markings is true?",
+    "a": "a broken yellow line between opposing lanes of traffic means that you may not cross the line.",
+    "b": "a solid white line between lanes of traffic means that you should stay in your lane unless a special situation requires you to change lanes.",
+    "c": "a double solid line between opposing lanes of traffic means that vehicles on either side can pass.",
+    "ans": "b"
+},
+{
+    "id": 21,
+    "title": "If your vehicle starts to hydroplane, you should",
+    "a": "slow down gradually.",
+    "b": "apply the brakes.",
+    "c": "press your gas pedal.",
+    "ans": "a"
+},
+{
+    "id": 22,
+    "title": "On a two-lane undivided highway, the maximum speed limit for vehicles towing trailers is ______ unless otherwise posted.",
+    "a": "60 mph",
+    "b": "65 mph",
+    "c": "55 mph",
+    "ans": "c"
+},
+{
+    "id": 23,
+    "title": "When you approach an intersection with a through road but without stop signs or yield signs, you must",
+    "a": "yield to traffic and pedestrians on the through road.",
+    "b": "accelerate to merge with traffic.",
+    "c": "make a sharp turn to mathc the speed of the traffic on the through road.",
+    "ans": "a"
+},
+{
+    "id": 24,
+    "title": "A traffic signal with a flashing yellow arrow means that you should",
+    "a": "yield and then proceed with caution.",
+    "b": "stop and be prepared to obey the next signal.",
+    "c": "proceed with caution but turns are not permitted in the direction of the arrow.",
+    "ans": "a"
+},
+{
+    "id": 25,
+    "title": "When you park and leave your vehicle on a highway or street, you should NOT",
+    "a": "lower the windows.",
+    "b": "set the parking brake.",
+    "c": "stop the engine.",
+    "ans": "a"
+},
+{
+    "id": 26,
+    "title": "When you turn off a high-speed, two-lane roadway, _______ if you have traffic following you.",
+    "a": "try not to slow down your vehicle too quickly.",
+    "b": "try to increase the speed of your vehicle.",
+    "c": "try to slow down your vehicle quickly.",
+    "ans": "a"
+},
+{
+    "id": 27,
+    "title": "Flashing Yellow Arrow means",
+    "a": "you can turn, but your turn is not protected from other traffic.",
+    "b": "you can turn, and your turn is protected from other traffic.",
+    "c": "you cannot turn, wait until it turns green.",
+    "ans": "a"
+},
+{
+    "id": 28,
+    "title": "Your vehicle breaks down on a freeway. You are not able to move the vehicle off the road completely as the road shoulder is too narrow. What is the best thing to do?",
+    "a": "leave the vehicle immediately and wave at drivers ot let them know you are blocking the lane.",
+    "b": "exit on the right side of your vehicle and proceed to a safe place.",
+    "c": "stay inside your vehicle with the seat belt on until help arrives.",
+    "ans": "b"
+},
+{
+    "id": 29,
+    "title": "What is the first rule of a safe and legal turn?",
+    "a": "reduce speed.",
+    "b": "move into the proper lane well before the turn.",
+    "c": "increase speed.",
+    "ans": "b"
+},
+{
+    "id": 30,
+    "title": "Before reaching the crest of a hill or entering a curve, you must _________, and watch for oncoming vehicles.",
+    "a": "slow down, move to the right side of the road.",
+    "b": "speed up, turn on the headlights.",
+    "c": "slow down, move to the left side of the road.",
+    "ans": "a"
+},
+{
+    "id": 31,
+    "title": "If a car approaches you with its high-beam headlights on, you must __________ to keep yourself from being temporarily blinded.",
+    "a": "look at the center of the road.",
+    "b": "look toward the left edge of the road.",
+    "c": "look toward the right edge of the road.",
+    "ans": "c"
+},
+{
+    "id": 32,
+    "title": "You are driving on the freeway and notice another driver using a handheld cell phone. What is the best thing to do?",
+    "a": "increase your following distance.",
+    "b": "alert the police immediately.",
+    "c": "honk your horn and wave to the driver to get off the phone.",
+    "ans": "a"
+},
+{
+    "id": 33,
+    "title": "Vehicles approaching a roundabout must",
+    "a": "enter the roundabout to the left of the central island.",
+    "b": "come to a complete stop and wait for traffic in the roundabout to clear.",
+    "c": "yield to the traffic in the roundabout.",
+    "ans": "c"
+},
+{
+    "id": 34,
+    "title": "A triangular orange sign on the rear of a vehicle indicates that",
+    "a": "the vehicle cannot travel faster than 45 mph.",
+    "b": "the vehicle cannot travel faster than 25 mph.",
+    "c": "the vehicle can travel faster than 25 mph.",
+    "ans": "b"
+},
+{
+    "id": 35,
+    "title": "_________ occurs on wet roads when your front tires start to ride on water instead of on the road.",
+    "a": "tailgating",
+    "b": "hydroplaning",
+    "c": "weaving",
+    "ans": "b"
+},
+{
+    "id": 36,
+    "title": "With any turning vehicle, the rear wheels follow a _________ than the front wheels.",
+    "a": "slower path",
+    "b": "longer path",
+    "c": "shorter path",
+    "ans": "c"
+},
+{
+    "id": 37,
+    "title": "On a two-way roadway with a center lane, drivers from either direction can _________ from the center lane.",
+    "a": "make left turns and U-turns",
+    "b": "make right turns",
+    "c": "park",
+    "ans": "a"
+},
+{
+    "id": 38,
+    "title": "Flag persons are often located on highways and in work zones",
+    "a": "to report accidents to the police department and insurance companies.",
+    "b": "to slow vehicles to a lower speed limit posted ahead.",
+    "c": "to stop, slow, or guide the traffic in work zones.",
+    "ans": "c"
+},
+{
+    "id": 39,
+    "title": "Flashing yellow lights on a school bus require other drivers to",
+    "a": "pass quickly.",
+    "b": "slow their vehicles and pass with caution.",
+    "c": "slow their vehicles and prepare to stop.",
+    "ans": "c"
+},
+{
+    "id": 40,
+    "title": "If temperatures are near freezing, which freezes first?",
+    "a": "bridges",
+    "b": "both roads and bridges at the same time",
+    "c": "roads",
+    "ans": "a"
+},
+{
+    "id": 41,
+    "title": "At an intersection, a steady yellow arrow signal pointing left indicates to the driver that",
+    "a": "he or she must increase speed.",
+    "b": "the signal is about to change to a green or red light or a red arrow.",
+    "c": "oncoming traffic is stopped and he or she may turn left.",
+    "ans": "b"
+},
+{
+    "id": 42,
+    "title": "When you see an emergency vehicle with its lights flashing on the wrong side of the road, giving instructions through the loudspeaker, you should",
+    "a": "stop immediately on the spot.",
+    "b": "proceed slowly.",
+    "c": "obey the instructions.",
+    "ans": "c"
+},
+{
+    "id": 43,
+    "title": "You may pass a stopped light-rail vehicle on the left side",
+    "a": "on one-way streets.",
+    "b": "if the tracks are so close to the right side that you cannot pass on the right.",
+    "c": "in both of the above situations.",
+    "ans": "c"
+},
+{
+    "id": 44,
+    "title": "If you approach an intersection with a steady yellow light, you must",
+    "a": "slow down and proceed with caution, if you cannot stop safely.",
+    "b": "stop and wait for the red light.",
+    "c": "stop, look for pedestrians, and proceed with caution.",
+    "ans": "a"
+},
+{
+    "id": 45,
+    "title": "On one-way roads, yellow lines are used as",
+    "a": "center lines.",
+    "b": "left-edge lines.",
+    "c": "right-edge lines.",
+    "ans": "b"
+},
+{
+    "id": 46,
+    "title": "A two-headed arrow with one head pointing straight ahead and the other pointing to the left means that",
+    "a": "you may either proceed straight ahead or turn left.",
+    "b": "you may either proceed straight ahead or merge left.",
+    "c": "you may only turn left.",
+    "ans": "a"
+},
+{
+    "id": 47,
+    "title": "When turning right into a two-way street, start in the right-hand lane and enter into",
+    "a": "the far left lane.",
+    "b": "any available lane.",
+    "c": "the lane nearest to the right edge of the road.",
+    "ans": "c"
+},
+{
+    "id": 48,
+    "title": "Which of the following statements about passing a vehicle is FALSE?",
+    "a": "do not follow another vehicle that is passing a car in front of you.",
+    "b": "you can exceed the speed limit to pass quickly.",
+    "c": "do not pass more than one vehicle at a time.",
+    "ans": "b"
+},
+{
+    "id": 49,
+    "title": "On two-lane highways, you are allowed to pass",
+    "a": "when you are approaching the top of a hill or are on a curve, and there is no clear view ahead.",
+    "b": "when there is a broken yellow line on your side of the center dividing line.",
+    "c": "while crossing or within 100 feet of a railroad crossing.",
+    "ans": "b"
+},
+{
+    "id": 50,
+    "title": "What is the correct hand signal for indicating a right turn?",
+    "a": "hand and arm extended upward.",
+    "b": "hand and arm extended downward.",
+    "c": "hand and arm extended outward.",
+    "ans": "a"
+},
+{
+    "id": 51,
+    "title": "While driving, when you see a triangular road sign, you must",
+    "a": "come to a complete stop.",
+    "b": "increase your speed.",
+    "c": "reduce your speed and yield.",
+    "ans": "c"
+},
+{
+    "id": 52,
+    "title": "Which of the following right-of-way rules is FALSE?",
+    "a": "you must obey signals given by a law enforcement officer, even if the officer's signals contradict the traffic signals.",
+    "b": "at all times, drivers must yield the right-of-way to pedestrians in a marked or unmarked crosswalk.",
+    "c": "at an intersection where there is no stop sign, yield sign, or traffic signal, drivers must yield to vehicles coming from the left.",
+    "ans": "c"
+},
+{
+    "id": 53,
+    "title": "When approaching an intersection to make a right turn, you must stay _________ and make the turn close to the right curb.",
+    "a": "as close to the left as possible.",
+    "b": "on the shoulder.",
+    "c": "as close to the right as possible.",
+    "ans": "c"
+},
+{
+    "id": 54,
+    "title": "You are driving slowly on a two-lane road. If there are at least ____ vehicles behind you that are unable to pass you, you must pull over and allow them to pass.",
+    "a": "3",
+    "b": "4",
+    "c": "5",
+    "ans": "c"
+},
+{
+    "id": 55,
+    "title": "Car drivers should NEVER",
+    "a": "pass a motorcycle in the same lane.",
+    "b": "give a motorcycle the full lane.",
+    "c": "move to one side of your lane to give motorcyclists more room to pass.",
+    "ans": "a"
+},
+{
+    "id": 56,
+    "title": "An __________ is the connection of a freeway to a road or another freeway by a series of ramps.",
+    "a": "exit ramp.",
+    "b": "interchange.",
+    "c": "acceleration lane.",
+    "ans": "b"
+},
+{
+    "id": 57,
+    "title": "If a driver extends his or her left arm out horizontally, it indicates that the driver is going to",
+    "a": "make a left turn.",
+    "b": "stop the vehicle.",
+    "c": "make a right turn.",
+    "ans": "a"
+},
+{
+    "id": 58,
+    "title": "If a pedestrian is in a marked or unmarked crosswalk, you must",
+    "a": "increase your speed and cross the crosswalk quickly.",
+    "b": "reduce your speed and proceed with caution.",
+    "c": "yield to the pedestrian.",
+    "ans": "c"
+},
+{
+    "id": 59,
+    "title": "Which of the following statements about the right-of-way is FALSE?",
+    "a": "vehicles entering or crossing a roadway from a private driveway must yield to all approaching vehicles.",
+    "b": "vehicles must yield to pedestrians in unmarked crosswalks.",
+    "c": "at a T-intersection without signs or signals, a vehicle on the through road must yield to vehicles on the terminating road.",
+    "ans": "c"
+},
+{
+    "id": 60,
+    "title": "The primary traveling aids for a blind person include",
+    "a": "a white cane and a wheelchair.",
+    "b": "a white cane and a trained guide dog.",
+    "c": "a red cane and a trained guide dog.",
+    "ans": "b"
+},
+{
+    "id": 61,
+    "title": "You may not cross a double solid yellow line on your left to",
+    "a": "make a U-turn.",
+    "b": "turn left into a driveway.",
+    "c": "pass another vehicle.",
+    "ans": "c"
+},
+{
+    "id": 62,
+    "title": "On two-lane roads where traffic moves in opposite directions, you may pass on the left only when",
+    "a": "a broken yellow line is in your lane.",
+    "b": "a double solid yellow line is in the center.",
+    "c": "a solid yellow line is in your lane.",
+    "ans": "a"
+},
+{
+    "id": 63,
+    "title": "If you are parallel parked on the right-hand side of the street, you should _________ before pulling out into traffic.",
+    "a": "signal a left turn and look over your left shoulder.",
+    "b": "signal a right turn and look over your right shoulder.",
+    "c": "signal a left turn and look over your right shoulder.",
+    "ans": "a"
+},
+{
+    "id": 64,
+    "title": "The octagonal shape sign is",
+    "a": "a Yield sign.",
+    "b": "a Stop sign.",
+    "c": "a Do Not Enter sign.",
+    "ans": "b"
+},
+{
+    "id": 65,
+    "title": "Do not use your horn",
+    "a": "to honk at a blind person.",
+    "b": "when you want the driver in front of you to move out of the way.",
+    "c": "in any of the above situations.",
+    "ans": "c"
+},
+{
+    "id": 66,
+    "title": "If you see two solid yellow lines on a roadway, it means that",
+    "a": "passing is permitted at any time.",
+    "b": "passing is permitted during the day.",
+    "c": "no passing is permitted.",
+    "ans": "c"
+},
+{
+    "id": 67,
+    "title": "Which of the following are used as left-edge lines on divided highways?",
+    "a": "single solid yellow lines.",
+    "b": "single solid white lines.",
+    "c": "double solid white lines.",
+    "ans": "a"
+},
+{
+    "id": 68,
+    "title": "A _________ indicates the outer edge of a roadway, and it may be crossed only by traffic moving to or from the shoulder.",
+    "a": "broken white line.",
+    "b": "solid white line.",
+    "c": "solid yellow line.",
+    "ans": "b"
+},
+{
+    "id": 69,
+    "title": "If all the rear seats are already occupied by children under 7 years of age, a child under 8 years of age may",
+    "a": "ride in the front seat without a seat belt.",
+    "b": "sit on the lap of an elder child, with a seat belt fastened to both.",
+    "c": "ride in the front seat if properly secured in a federally approved child passenger restraint system.",
+    "ans": "c"
+},
+{
+    "id": 70,
+    "title": "A driver who is involved in a significant collision must report it to the DMV within",
+    "a": "10 days.",
+    "b": "15 days.",
+    "c": "20 days.",
+    "ans": "a"
+},
+{
+    "id": 71,
+    "title": "To avoid tailgating, one should follow the",
+    "a": "two-second rule.",
+    "b": "three-second rule.",
+    "c": "four-second rule.",
+    "ans": "b"
+},
+{
+    "id": 72,
+    "title": "Two sets of solid double yellow lines spaced two or more feet apart indicate",
+    "a": "a parking lot.",
+    "b": "two-way traffic.",
+    "c": "a barrier.",
+    "ans": "c"
+},
+{
+    "id": 73,
+    "title": "In a roundabout, you must drive in",
+    "a": "the direction of the oncoming vehicles.",
+    "b": "a clockwise direction.",
+    "c": "a counterclockwise direction.",
+    "ans": "c"
+},
+{
+    "id": 74,
+    "title": "You can make a left turn on a red light",
+    "a": "only from a two-way street onto another two-way street.",
+    "b": "only from a one-way street onto another one-way street.",
+    "c": "only from a one-way street onto a two-way street.",
+    "ans": "b"
+},
+{
+    "id": 75,
+    "title": "A steady red arrow signal means",
+    "a": "you should prepare to stop and yield to oncoming traffic before turning.",
+    "b": "you must stop and then proceed when it is safe to do so.",
+    "c": "you must stop and you cannot turn in the direction of the arrow.",
+    "ans": "c"
+},
+{
+    "id": 76,
+    "title": "At 55 mph, under good conditions, a passenger vehicle can stop within",
+    "a": "200 feet.",
+    "b": "300 feet.",
+    "c": "400 feet.",
+    "ans": "b"
+},
+{
+    "id": 77,
+    "title": "On a two-lane undivided highway, the maximum speed limit for vehicles towing trailers is ______ unless otherwise posted.",
+    "a": "55 mph",
+    "b": "60 mph",
+    "c": "65 mph",
+    "ans": "a"
+},
+{
+    "id": 78,
+    "title": "A(n) __________ sign on a truck means that the truck's load is potentially dangerous.",
+    "a": "octagonal",
+    "b": "rectangular white",
+    "c": "diamond-shaped",
+    "ans": "c"
+},
+{
+    "id": 79,
+    "title": "If you are having vehicle trouble and you need to stop, what is the first thing you should do?",
+    "a": "stop your vehicle over a hill or just around a curve for visibility.",
+    "b": "pull off the road and away from traffic.",
+    "c": "lift the hood to signal an emergency.",
+    "ans": "b"
+},
+{
+    "id": 80,
+    "title": "If a California driver with a provisional driver license gets a traffic ticket but doesn't pay the fine or appear in court",
+    "a": "his or her parents will be notified.",
+    "b": "his or her license will be suspended.",
+    "c": "his or her school will be notified.",
+    "ans": "b"
+},
+{
+    "id": 81,
+    "title": "What is the minimum age requirement for a minors' driver license in the state of CA?",
+    "a": "15",
+    "b": "16",
+    "c": "17",
+    "ans": "b"
+},
+{
+    "id": 82,
+    "title": "If a California driver with a provisional license has been involved in two at fault collisions within the first 12 months of holding the license, he or she must",
+    "a": "pay a fine.",
+    "b": "return his or her license to the DMV.",
+    "c": "be supervised while driving for 30 days.",
+    "ans": "c"
+},
+{
+    "id": 83,
+    "title": "What is California's minimum age requirement for an adult driver license?",
+    "a": "15",
+    "b": "18",
+    "c": "21",
+    "ans": "b"
+},
+{
+    "id": 84,
+    "title": "Because tractor-trailers are so large, they often appear to be traveling",
+    "a": "faster.",
+    "b": "backward.",
+    "c": "slower.",
+    "ans": "c"
+},
+{
+    "id": 85,
+    "title": "Are you allowed to make a U-turn on an undivided roadway in a business district?",
+    "a": "no.",
+    "b": "yes, but only at intersections.",
+    "c": "yes.",
+    "ans": "b"
+},
+{
+    "id": 86,
+    "title": "NEV Use Only lanes have vehicles",
+    "a": "that are allowed to move faster than other traffic.",
+    "b": "that are carpooling only.",
+    "c": "that are slow-moving and restricted to neighborhood use.",
+    "ans": "c"
+},
+{
+    "id": 87,
+    "title": "When are you allowed to double park?",
+    "a": "only if someone stays in the vehicle.",
+    "b": "only if you're making a quick stop.",
+    "c": "never.",
+    "ans": "c"
+},
+{
+    "id": 88,
+    "title": "Before changing lanes on a freeway, you should signal for at least",
+    "a": "5 seconds.",
+    "b": "10 seconds.",
+    "c": "100 feet.",
+    "ans": "a"
+},
+{
+    "id": 89,
+    "title": "If you are towing a trailer on a California divided highway with at least four lanes in your direction, you may use which lanes?",
+    "a": "any lane except the left most lane.",
+    "b": "only the rightmost lane.",
+    "c": "only the two rightmost lanes.",
+    "ans": "c"
+},
+{
+    "id": 90,
+    "title": "If you want to transport your dog in the back of your pickup truck, the dog must be",
+    "a": "provided with adequate food and water.",
+    "b": "sheltered from the sun.",
+    "c": "properly secured.",
+    "ans": "c"
+},
+{
+    "id": 91,
+    "title": "When you see a stopped school bus with its red lights flashing, you should",
+    "a": "stop and remain stopped until the lights stop flashing.",
+    "b": "slow down and pass with caution.",
+    "c": "drive at 10 mph and watch for children crossing.",
+    "ans": "a"
+},
+{
+    "id": 92,
+    "title": "Under California law, can you legally park in front of a driveway, partially or fully blocking it?",
+    "a": "no, never.",
+    "b": "yes, if it is your own driveway.",
+    "c": "only for 15 minutes or less.",
+    "ans": "a"
+},
+{
+    "id": 93,
+    "title": "The bicycle lane is separated from traffic by a single solid white line and may be painted ___ to make it easier to see.",
+    "a": "bright green.",
+    "b": "bright yellow.",
+    "c": "white.",
+    "ans": "a"
+},
+{
+    "id": 94,
+    "title": "What should you do if you feel drowsy before you drive?",
+    "a": "sleep.",
+    "b": "exercise.",
+    "c": "listen to music.",
+    "d": "drink coffee.",
+    "ans": "a"
+},
+{
+    "id": 95,
+    "title": "Can you take medications before planning to drive?",
+    "a": "no.",
+    "b": "only if the doctor says if won't affect safe driving.",
+    "c": "only if you have a prescription.",
+    "d": "only over the counter ones.",
+    "ans": "b"
+},
+{
+    "id": 96,
+    "title": "Things that can distract you from the road include",
+    "a": "text messaging and talking on the phone.",
+    "b": "checking blind spots.",
+    "c": "checking the traffic behind you frequently.",
+    "d": "always checking mirrors.",
+    "ans": "a"
+},
+{
+    "id": 97,
+    "title": "How can fatigue affect your driving?",
+    "a": "slower reaction times.",
+    "b": "impaired judgement.",
+    "c": "decreased awareness.",
+    "d": "all of the above.",
+    "ans": "d"
+},
+{
+    "id": 98,
+    "title": "Which drugs can affect your ability to safely operate a vehicle?",
+    "a": "illegal drugs.",
+    "b": "prescription drugs.",
+    "c": "over-the-counter drugs.",
+    "d": "all of the above.",
+    "ans": "d"
+},
+{
+    "id": 99,
+    "title": "How many standard servings of alcohol can safely be consumed by an adult before driving?",
+    "a": "1",
+    "b": "2",
+    "c": "3",
+    "d": "it varies from person to person.",
+    "ans": "d"
+},
+{
+    "id": 100,
+    "title": "When a driver's blood alcohol concentration (BAC) rises, which of the following happens?",
+    "a": "self-control and judgment are the first processes affected.",
+    "b": "coordination and muscle control are affected by the alcohol.",
+    "c": "the drinker's brain is increasingly affected by the alcohol.",
+    "d": "all of the above.",
+    "ans": "d"
+},
+{
+    "id": 101,
+    "title": "Drinking alcohol and driving at night is especially dangerous because",
+    "a": "alcohol affects your judgement at night more.",
+    "b": "you are more likely to encounter drivers who have been drinking.",
+    "c": "your vision is already restricted.",
+    "d": "roads are busier at night.",
+    "ans": "c"
+},
+{
+    "id": 102,
+    "title": "Alcohol can affect your",
+    "a": "concentration.",
+    "b": "reaction time.",
+    "c": "judgment.",
+    "d": "all of the above.",
+    "ans": "d"
+},
+{
+    "id": 103,
+    "title": "In California, are you allowed to leave a child 6 years old or younger in a vehicle?",
+    "a": "no, never.",
+    "b": "yes, but only if the windows are slightly open.",
+    "c": "yes, but only if supervised by someone who is at least 12 years old.",
+    "ans": "c"
+},
+{
+    "id": 104,
+    "title": "If a CA driver is convicted of fleeing a law enforcement officer on duty without causing any bodily injuries, he or she may face which of the following penalties?",
+    "a": "up to one year in jail.",
+    "b": "a fine of up to $1,000.",
+    "c": "both of the above.",
+    "ans": "a"
+},
+{
+    "id": 105,
+    "title": "You should use your horn to alert the oncoming traffic on narrow mountain roads when you cannot see ahead for at least",
+    "a": "200 feet.",
+    "b": "500 feet.",
+    "c": "1,000 feet.",
+    "ans": "a"
+},
+{
+    "id": 106,
+    "title": "If you are convicted of leaving a child aged 6 or younger alone in a car under conditions that might endanger his or her health or safety, you will be fined",
+    "a": "$100.",
+    "b": "$500.",
+    "c": "$1,000.",
+    "ans": "a"
+},
+{
+    "id": 107,
+    "title": "It is illegal to park within ____ of a sidewalk ramp for disabled people.",
+    "a": "3 feet.",
+    "b": "3.5 feet.",
+    "c": "5 feet.",
+    "ans": "a"
+},
+{
+    "id": 108,
+    "title": "Which of the following contains more alcohol?",
+    "a": "a 5-oz glass of 12% wine.",
+    "b": "a 1.5-oz shot of 80 proof liquor.",
+    "c": "a 12-oz glass of 5% beer.",
+    "d": "they're all the same.",
+    "ans": "d"
+},
+{
+    "id": 109,
+    "title": "What does this sign mean?",
+    "a": "the lane is reserved for high-speed vehicles.",
+    "b": "the lane is shared for left turns in both directions of travel.",
+    "c": "the lane is reserved for right turns.",
+    "d": "the lane is reserved for certrain purposes or certain vehicles.",
+    "ans": "d",
+    "pic": "a.webp",
+    "hash": "webp"
+},
+{
+    "id": 110,
+    "title": "What does this sign indicate?",
+    "a": "the maximum allowable speed in a school zone when children are present.",
+    "b": "the maximum allowable speed in a school zone at any time.",
+    "c": "the minimum allowable speed in a school zone when children are present.",
+    "d": "the minimum allowable speed in a school zone at any time.",
+    "ans": "a",
+    "pic": "b.webp",
+    "hash": "webp"
+},
+{
+    "id": 111,
+    "title": "What does this sign indicate?",
+    "a": "traffic is merging ahead.",
+    "b": "one-way traffic is ahead.",
+    "c": "the divided highway ends ahead.",
+    "d": "a divided highway starts ahead.",
+    "ans": "c",
+    "pic": "c.webp",
+    "hash": "webp"
+},
+{
+    "id": 112,
+    "title": "This octagonal (eight-sided) figure is",
+    "a": "a stop sign.",
+    "b": "a road construction sign.",
+    "c": "a yield sign.",
+    "d": "a Do Not Enter sign.",
+    "ans": "a",
+    "pic": "d.webp",
+    "hash": "webp"
+},
+{
+    "id": 113,
+    "title": "What does this sign mean?",
+    "a": "you must make a U-turn from this lane.",
+    "b": "you may make a left turn from this lane.",
+    "c": "you must go straight and take a detour at the intersection.",
+    "d": "you are allowed to make a U-turn from this lane.",
+    "ans": "a",
+    "pic": "e.webp",
+    "hash": "webp"
+},
+{
+    "id": 114,
+    "title": "It is 9:30 a.m. Are you allowed to park beside this sign?",
+    "a": "Yes.",
+    "b": "No.",
+    "c": "Yes, but only for five minutes.",
+    "d": "Yes, but only with a special permit.",
+    "ans": "b",
+    "pic": "f.webp",
+    "hash": "webp"
+},
+{
+    "id": 115,
+    "title": "What does this sign mean?",
+    "a": "a Y-intersection ahead.",
+    "b": "a yield sign ahead.",
+    "c": "a side road ahead.",
+    "d": "a youth hostel ahead.",
+    "ans": "a",
+    "pic": "g.webp",
+    "hash": "webp"
+},
+{
+    "id": 116,
+    "title": "This sign shows the location of",
+    "a": "a telephone service",
+    "b": "a gas station.",
+    "c": "a campground.",
+    "d": "a rest area.",
+    "ans": "b",
+    "pic": "h.webp",
+    "hash": "webp"
+},
+{
+    "id": 117,
+    "title": "What does this sign mean?",
+    "a": "stop ahead.",
+    "b": "pedestrian zone ahead.",
+    "c": "right turn ahead.",
+    "d": "flag person ahead.",
+    "ans": "d",
+    "pic": "i.webp",
+    "hash": "webp"
+},
+{
+    "id": 118,
+    "title": "This posted sign appears at",
+    "a": "intersections.",
+    "b": "school crossings.",
+    "c": "residential areas.",
+    "d": "freeway exit ramps.",
+    "ans": "d",
+    "pic": "j.webp",
+    "hash": "webp"
+},
+{
+    "id": 119,
+    "title": "This sign indicates",
+    "a": "a narrow lane.",
+    "b": "a two-way street.",
+    "c": "the end of a divided highway.",
+    "d": "traffic merging ahead.",
+    "ans": "d",
+    "pic": "k.webp",
+    "hash": "webp"
+},
+{
+    "id": 120,
+    "title": "What does this sign mean?",
+    "a": "trucks are not allowed to make U-turns.",
+    "b": "vehicles must not make U-turns at the sign.",
+    "c": "all vehicles must make U-turns at the sign.",
+    "d": "it means none of the above.",
+    "ans": "b",
+    "pic": "l.webp",
+    "hash": "webp"
+},
+{
+    "id": 121,
+    "title": "This sign means that",
+    "a": "bicyclists should move only in the lane where the sign is posted.",
+    "b": "bicyclists should not use this lane.",
+    "c": "a bikeway crosses the roadway ahead.",
+    "d": "a no-passing zone for bicyclists is ahead.",
+    "ans": "c",
+    "pic": "m.webp",
+    "hash": "webp"
+},
+{
+    "id": 122,
+    "title": "If you see this sign, it means you are",
+    "a": "in a city.",
+    "b": "in the wrong lane.",
+    "c": "driving the wrong way.",
+    "d": "on an expressway.",
+    "ans": "c",
+    "pic": "n.webp",
+    "hash": "webp"
+},
+{
+    "id": 123,
+    "title": "What does this sign mean?",
+    "a": "a safe speed indication for a curve ahead to the right.",
+    "b": "a minimum suggested speed on a highway.",
+    "c": "the posted speed limit for a sharp right turn.",
+    "d": "the posted speed limit for an S-shaped curve.",
+    "ans": "a",
+    "pic": "o.webp",
+    "hash": "webp"
+},
+{
+    "id": 124,
+    "title": "What does this sign mean?",
+    "a": "a narrow passage near a hill, drivers must go slowly.",
+    "b": "an acceleration ramp near a freeway, drivers must merge with freeway traffic.",
+    "c": "a bump ahead, drivers must maintain a uniform speed.",
+    "d": "a steep descent ahead, drivers may need to shift into a lower gear.",
+    "ans": "d",
+    "pic": "p.webp",
+    "hash": "webp"
+},
+{
+    "id": 125,
+    "title": "The single broken (dashed) white line in this figure indicates",
+    "a": "the center of a roadway where passing is prohibited.",
+    "b": "traffic moving in opposite directions.",
+    "c": "traffic moving in the same direction.",
+    "d": "the curb of the road.",
+    "ans": "c",
+    "pic": "q.webp",
+    "hash": "webp"
+},
+{
+    "id": 126,
+    "title": "The vertical rectangular traffic sign typically gives",
+    "a": "directions to the driver to stop.",
+    "b": "a warning about the condition of the road.",
+    "c": "instructions to the driver.",
+    "d": "a route number.",
+    "ans": "c",
+    "pic": "r.webp",
+    "hash": "webp"
+},
+{
+    "id": 127,
+    "title": "What does this sign indicate?",
+    "a": "the right lane ends ahead.",
+    "b": "the left lane ends ahead.",
+    "c": "a narrow bridge is ahead.",
+    "d": "a one-way road is ahead.",
+    "ans": "a",
+    "pic": "s.webp",
+    "hash": "webp"
+},
+{
+    "id": 128,
+    "title": "What is the meaning of this sign?",
+    "a": "the road shoulder is much lower than the road surface.",
+    "b": "the road is slippery and wet.",
+    "c": "there is gravel on the road.",
+    "d": "this is a hidden road.",
+    "ans": "a",
+    "pic": "t.webp",
+    "hash": "webp"
+},
+{
+    "id": 129,
+    "title": "This regulatory sign indicates",
+    "a": "a two-way left-turn lane.",
+    "b": "a two-way right-turn lane.",
+    "c": "two-way merging traffic.",
+    "d": "a two-way road.",
+    "ans": "a",
+    "pic": "u.webp",
+    "hash": "webp"
+},
+{
+    "id": 130,
+    "title": "What does this sign mean?",
+    "a": "keep left of the divider.",
+    "b": "keep right of the divider.",
+    "c": "you are approaching a divided highway.",
+    "d": "you will have to detour.",
+    "ans": "a",
+    "pic": "v.webp",
+    "hash": "webp"
+},
+{
+    "id": 131,
+    "title": "What does this sign mean?",
+    "a": "the road is closed ahead.",
+    "b": "this roadway ends at a T-intersection.",
+    "c": "a Y-intersection is ahead.",
+    "d": "the rails of a narrow bridge are ahead.",
+    "ans": "b",
+    "pic": "w.webp",
+    "hash": "webp"
+},
+{
+    "id": 132,
+    "title": "If you see this sign and you are traveling slower than most traffic, you should",
+    "a": "move into the left lane.",
+    "b": "take the next exit.",
+    "c": "move into the right lane.",
+    "d": "increase your speed.",
+    "ans": "c",
+    "pic": "x.webp",
+    "hash": "webp"
+},
+{
+    "id": 133,
+    "title": "What does this sign mean?",
+    "a": "the roadway ahead is closed for repairs.",
+    "b": "a railroad crossing is ahead.",
+    "c": "a new railroad is under construction.",
+    "d": "the railroad ahead is closed for repairs.",
+    "ans": "b",
+    "pic": "y.webp",
+    "hash": "webp"
+},
+{
+    "id": 134,
+    "title": "You drive up to an intersection and you see this sign. What should you do?",
+    "a": "slow down and prepare to yield to any pedestrians and traffic ahead.",
+    "b": "come to a complete stop and proceed after yielding to any pedestrians and traffic.",
+    "c": "slow down and prepare to yield to traffic ahead, but you will not need to stop.",
+    "ans": "a",
+    "pic": "z.webp",
+    "hash": "webp"
+},
+{
+    "id": 135,
+    "title": "Two cars arrive at an intersection at the same time. Which of the following is true?",
+    "a": "car A must yield because it is to the left of car B.",
+    "b": "car B must yield because it is traveling straight through the intersection.",
+    "c": "car B must yield because.",
+    "ans": "a",
+    "pic": "z1.webp",
+    "hash": "webp"
+},
+{
+    "id": 136,
+    "title": "What does this sign mean?",
+    "a": "the recommended speed for this curve is 35 mph.",
+    "b": "there is a 35-degree curve ahead.",
+    "c": "the maximum speed for this curve is 35 mph.",
+    "ans": "a",
+    "pic": "z2.webp",
+    "hash": "webp"
+},
+{
+    "id": 137,
+    "title": "You must not drive faster than 40 mph.",
+    "a": "True",
+    "b": "False",
+    "ans": "a",
+    "pic": "1.svg",
+    "hash": "svg"
+},
+{
+    "id": 138,
+    "title": "This is a Roundabout Ahead road sign.",
+    "a": "True",
+    "b": "False",
+    "ans": "a",
+    "pic": "2.svg",
+    "hash": "svg"
+},
+{
+    "id": 139,
+    "title": "This is a Yield sign.",
+    "a": "True",
+    "b": "False",
+    "ans": "b",
+    "pic": "3.svg",
+    "hash": "svg"
+},
+{
+    "id": 140,
+    "title": "This is a Keep to the Right of the Traffic Island road sign.",
+    "a": "True",
+    "b": "False",
+    "ans": "a",
+    "pic": "4.svg",
+    "hash": "svg"
+},
+{
+    "id": 141,
+    "title": "This is a Commercial Vehicles Only road sign.",
+    "a": "True",
+    "b": "False",
+    "ans": "b",
+    "pic": "5.svg",
+    "hash": "svg"
+},
+{
+    "id": 142,
+    "title": "This is a T-Intersection ahead road sign.",
+    "a": "True",
+    "b": "False",
+    "ans": "b",
+    "pic": "6.svg",
+    "hash": "svg"
+},
+{
+    "id": 143,
+    "title": "This arrow sign means Turn Left Or Go Straight",
+    "a": "True",
+    "b": "False",
+    "ans": "a",
+    "pic": "7.svg",
+    "hash": "svg"
+},
+{
+    "id": 144,
+    "title": "This is a Steep Hill Ahead road sign.",
+    "a": "True",
+    "b": "False",
+    "ans": "a",
+    "pic": "8.svg",
+    "hash": "svg"
+},
+{
+    "id": 145,
+    "title": "This is a No Phones Allowed road sign.",
+    "a": "True",
+    "b": "False",
+    "ans": "b",
+    "pic": "9.svg",
+    "hash": "svg"
+},
+{
+    "id": 146,
+    "title": "This is a Road Entering A Curve Ahead road sign.",
+    "a": "True",
+    "b": "False",
+    "ans": "a",
+    "pic": "10.svg",
+    "hash": "svg"
+},
+{
+    "id": 147,
+    "title": "This is a Police Only road sign.",
+    "a": "True",
+    "b": "False",
+    "ans": "b",
+    "pic": "11.svg",
+    "hash": "svg"
+},
+{
+    "id": 148,
+    "title": "This sign indicates that only emergency vehicles must make a U-turn from this lane.",
+    "a": "True",
+    "b": "False",
+    "ans": "b",
+    "pic": "12.svg",
+    "hash": "svg"
+},
+{
+    "id": 149,
+    "title": "This is an Upcoming Side Road sign.",
+    "a": "True",
+    "b": "False",
+    "ans": "a",
+    "pic": "13.svg",
+    "hash": "svg"
+},
+{
+    "id": 150,
+    "title": "This is a Narrow Bridge Ahead sign.",
+    "a": "True",
+    "b": "False",
+    "ans": "a",
+    "pic": "14.svg",
+    "hash": "svg"
+},
+{
+    "id": 151,
+    "title": "This is a U-Turn Only sign.",
+    "a": "True",
+    "b": "False",
+    "ans": "a",
+    "pic": "15.svg",
+    "hash": "svg"
+},
+{
+    "id": 152,
+    "title": "This is a Two-way Traffic sign.",
+    "a": "True",
+    "b": "False",
+    "ans": "b",
+    "pic": "16.svg",
+    "hash": "svg"
+},
+{
+    "id": 153,
+    "title": "This is a Nuclear Plant Ahead sign.",
+    "a": "True",
+    "b": "False",
+    "ans": "b",
+    "pic": "17.svg",
+    "hash": "svg"
+},
+{
+    "id": 154,
+    "title": "This is a Lodging Facilities Ahead sign.",
+    "a": "True",
+    "b": "False",
+    "ans": "a",
+    "pic": "18.svg",
+    "hash": "svg"
+},
+{
+    "id": 155,
+    "title": "This is a Hospital Ahead sign.",
+    "a": "True",
+    "b": "False",
+    "ans": "a",
+    "pic": "19.svg",
+    "hash": "svg"
+},
+{
+    "id": 156,
+    "title": "This sign warns the drivers that they should not leave the pavement.",
+    "a": "True",
+    "b": "False",
+    "ans": "a",
+    "pic": "20.svg",
+    "hash": "svg"
+},
+{
+    "id": 157,
+    "title": "This is a No Trucks Allowed sign.",
+    "a": "True",
+    "b": "False",
+    "ans": "a",
+    "pic": "21.svg",
+    "hash": "svg"
+},
+{
+    "id": 158,
+    "title": "This is a Do Not Park sign.",
+    "a": "True",
+    "b": "False",
+    "ans": "b",
+    "pic": "22.svg",
+    "hash": "svg"
+},
+{
+    "id": 159,
+    "title": "The broken white lines on the pavement mean that passing is not allowed.",
+    "a": "True",
+    "b": "False",
+    "ans": "b",
+    "pic": "23.svg",
+    "hash": "svg"
+},
+{
+    "id": 160,
+    "title": "This road sign means Beginning of an Alternate Road Ahead.",
+    "a": "True",
+    "b": "False",
+    "ans": "a",
+    "pic": "24.svg",
+    "hash": "svg"
+},
+{
+    "id": 161,
+    "title": "This is a Curves on the Road sign.",
+    "a": "True",
+    "b": "False",
+    "ans": "a",
+    "pic": "25.svg",
+    "hash": "svg"
+},
+{
+    "id": 162,
+    "title": "This is a Bump Ahead sign.",
+    "a": "True",
+    "b": "False",
+    "ans": "a",
+    "pic": "26.svg",
+    "hash": "svg"
+},
+{
+    "id": 163,
+    "title": "This is a Highway Exit sign.",
+    "a": "True",
+    "b": "False",
+    "ans": "b",
+    "pic": "27.svg",
+    "hash": "svg"
+},
+{
+    "id": 164,
+    "title": "This is a Right Turn Not Allowed sign.",
+    "a": "True",
+    "b": "False",
+    "ans": "a",
+    "pic": "28.svg",
+    "hash": "svg"
+},
+{
+    "id": 165,
+    "title": "This is a Blinkers Only sign.",
+    "a": "True",
+    "b": "False",
+    "ans": "b",
+    "pic": "29.svg",
+    "hash": "svg"
+},
+{
+    "id": 166,
+    "title": "This is a Divided Highway Ends sign.",
+    "a": "True",
+    "b": "False",
+    "ans": "a",
+    "pic": "30.svg",
+    "hash": "svg"
+},
+{
+    "id": 167,
+    "title": "This sign indicates that bicyclists must not use this road.",
+    "a": "True",
+    "b": "False",
+    "ans": "a",
+    "pic": "31.svg",
+    "hash": "svg"
+},
+{
+    "id": 168,
+    "title": "This is a Road Shoulder Much Higher Than Road Surface sign.",
+    "a": "True",
+    "b": "False",
+    "ans": "b",
+    "pic": "32.svg",
+    "hash": "svg"
+},
+{
+    "id": 169,
+    "title": "This is a Bicycles Only sign.",
+    "a": "True",
+    "b": "False",
+    "ans": "b",
+    "pic": "33.svg",
+    "hash": "svg"
+},
+{
+    "id": 170,
+    "title": "This is a Rodeo Ahead sign.",
+    "a": "True",
+    "b": "False",
+    "ans": "b",
+    "pic": "34.svg",
+    "hash": "svg"
+},
+{
+    "id": 171,
+    "title": "This is a No Left Turns Allowed sign.",
+    "a": "True",
+    "b": "False",
+    "ans": "a",
+    "pic": "35.svg",
+    "hash": "svg"
+},
+{
+    "id": 172,
+    "title": "This is a Stop Sign Ahead sign.",
+    "a": "True",
+    "b": "False",
+    "ans": "a",
+    "pic": "36.svg",
+    "hash": "svg"
+},
+{
+    "id": 173,
+    "title": "This is a Radio Station Ahead sign.",
+    "a": "True",
+    "b": "False",
+    "ans": "b",
+    "pic": "37.svg",
+    "hash": "svg"
+},
+{
+    "id": 174,
+    "title": "This is a Left Turn Only sign.",
+    "a": "True",
+    "b": "False",
+    "ans": "a",
+    "pic": "38.svg",
+    "hash": "svg"
+},
+{
+    "id": 175,
+    "title": "This is a Flagperson Ahead sign.",
+    "a": "True",
+    "b": "False",
+    "ans": "a",
+    "pic": "39.svg",
+    "hash": "svg"
+},
+{
+    "id": 176,
+    "title": "This is a School Zone sign.",
+    "a": "True",
+    "b": "False",
+    "ans": "b",
+    "pic": "40.svg",
+    "hash": "svg"
+},
+{
+    "id": 177,
+    "title": "You should signal at least _______ feet before you turn.",
+    "a": "100",
+    "b": "200",
+    "c": "500",
+    "ans": "a"
+},
+{
+    "id": 178,
+    "title": "You should signal",
+    "a": "before every lane change.",
+    "b": "at least five seconds before you change lanes on a freeway.",
+    "c": "before pulling next to the curb or away from the curb.",
+    "d": "all of the above.",
+    "ans": "d"
+},
+{
+    "id": 179,
+    "title": "You should signal",
+    "a": "only when you see other vehicles around you.",
+    "b": "even when you do not see other vehicles around you.",
+    "c": "none of the above.",
+    "ans": "b"
+},
+{
+    "id": 180,
+    "title": "Use your horn to",
+    "a": "avoid collisions.",
+    "b": "alert oncoming traffic on narrow mountain roads where you cannot see at least 200 feet ahead.",
+    "c": "all of the above.",
+    "ans": "c"
+},
+{
+    "id": 181,
+    "title": "Dim your high-beam headlights to low beams",
+    "a": "within 500 feet of a vehicle coming toward you.",
+    "b": "within 300 feet of a vehicle you are following.",
+    "c": "all of the above.",
+    "ans": "c"
+},
+{
+    "id": 182,
+    "title": "Use your headlights",
+    "a": "when it is too dark to see from 1,000 feet away.",
+    "b": "beginning 30 minutes after sunset.",
+    "c": "until 30 minutes before sunrise.",
+    "d": "all of the above.",
+    "ans": "d"
+},
+{
+    "id": 183,
+    "title": "Use your headlights",
+    "a": "in adverse weather.",
+    "b": "on mountain roads and tunnels.",
+    "c": "all of the above.",
+    "ans": "c"
+},
+{
+    "id": 184,
+    "title": "Use your headlights on mountain roads and tunnels",
+    "a": "only on rainy days.",
+    "b": "even on sunny days.",
+    "c": "only on sunny days.",
+    "ans": "b"
+},
+{
+    "id": 185,
+    "title": "If you need to stop because of vehicle trouble",
+    "a": "turn on your emergency flashers.",
+    "b": "if possible, pull off the road away from all traffic.",
+    "c": "call for emergency roadside assistance and stay in your vehicle until help arrives.",
+    "d": "all of the above.",
+    "ans": "d"
+},
+{
+    "id": 186,
+    "title": "________ indicate(s) you may pass if the broken line is next to your driving lane. Only pass when it is safe.",
+    "a": "Single Solid Yellow Line",
+    "b": "Double Solid Yellow Lines",
+    "c": "Borken Yellow Line",
+    "ans": "c"
+},
+{
+    "id": 187,
+    "title": "________ mark(s) the center of a road with two-way traffic.",
+    "a": "Single Solid Yellow Line",
+    "b": "Double Solid Yellow Lines",
+    "c": "Borken Yellow Line",
+    "ans": "a"
+},
+{
+    "id": 188,
+    "title": "________ mark(s) traffic lanes going in the same direction.",
+    "a": "Single Solid White Line",
+    "b": "Double Solid White Lines",
+    "c": "Broken White Lines",
+    "ans": "a"
+},
+{
+    "id": 189,
+    "title": "________ indicate(s) a lane barrier between a regular use and a preferential use lane, such as a carpool (HOV) lane.",
+    "a": "Single Solid White Line",
+    "b": "Double Solid White Lines",
+    "c": "Broken White Lines",
+    "ans": "b"
+},
+{
+    "id": 190,
+    "title": "________ separate(s) traffic lanes on roads with two or more lanes in the same direction.",
+    "a": "Single Solid White Line",
+    "b": "Double Solid White Lines",
+    "c": "Broken White Lines",
+    "ans": "c"
+},
+{
+    "id": 191,
+    "title": "A ________ line is a solid white line of triangles that shows approaching vehicles where to yield or stop. The triangles point towards approaching vehicles.",
+    "a": "yield",
+    "b": "stop",
+    "c": "bike",
+    "ans": "a"
+},
+{
+    "id": 192,
+    "title": "Before you change lanes",
+    "a": "signal.",
+    "b": "check your mirrors.",
+    "c": "check traffic behind and beside you.",
+    "d": "all of the above.",
+    "ans": "d"
+},
+{
+    "id": 193,
+    "title": "___________ is located in the middle of a two-way street. It is marked on both sides by two painted lines.",
+    "a": "Passing Lane",
+    "b": "Center Left Turn Lane",
+    "c": "Carpool Lane",
+    "ans": "b"
+},
+{
+    "id": 194,
+    "title": "It is illegal to drive in a bicycle lane unless you are",
+    "a": "parking (where permitted).",
+    "b": "entering or leaving the road.",
+    "c": "turning (within 200 feet of an intersection).",
+    "d": "all of the above.",
+    "ans": "d"
+},
+{
+    "id": 195,
+    "title": "You may make a U-turn",
+    "a": "across a double yellow line.",
+    "b": "at an intersection on a green traffic light or green arrow, unless a No U-turn sign is posted.",
+    "c": "on a divided highway if a center divider opening is provided.",
+    "d": "all of the above.",
+    "ans": "d"
+},
+{
+    "id": 196,
+    "title": "You may make a U-turn",
+    "a": "at or on a railroad crossing.",
+    "b": "in a residential district.",
+    "c": "on a one-way street.",
+    "ans": "b"
+},
+{
+    "id": 197,
+    "title": "You may make a U-turn in a residential district if",
+    "a": "no vehicles are approaching you within 200 feet.",
+    "b": "no vehicles are approaching you within 100 feet.",
+    "c": "never.",
+    "ans": "a"
+},
+{
+    "id": 198,
+    "title": "Never make a U-turn",
+    "a": "on a divided highway by crossing a dividing section, curb, strip of land, or two sets of double yellow lines.",
+    "b": "in business districts (the part of a city or town where most offices and businesses are).",
+    "c": "in front of a fire station.",
+    "d": "all of the above.",
+    "ans": "d"
+},
+{
+    "id": 199,
+    "title": "When you enter a highway, you will need to",
+    "a": "be at or near the speed of traffic.",
+    "b": "use your mirrors and turn signals.",
+    "c": "make sure you can stop safely by leaving three seconds of space between you and the vehicle in front of you.",
+    "d": "all of the above.",
+    "ans": "d"
+},
+{
+    "id": 200,
+    "title": "To exit a highway safely",
+    "a": "when in the proper lane, signal five seconds (approximately 400 feet) before you exit.",
+    "b": "make sure you are at a safe speed to exit.",
+    "c": "do not cross over any solid lines when exiting.",
+    "d": "all of the above.",
+    "ans": "d"
+},
+{
+    "id": 201,
+    "title": "To merge, enter, or exit traffic, you need a space that is",
+    "a": "half a block on city streets, which is about 150 feet.",
+    "b": "a full block on the highway, which is about 300 feet.",
+    "c": "even if you have a green light, do not start across the intersection if there are pedestrians or vehicles blocking your pathway.",
+    "d": "all of the above.",
+    "ans": "d"
+},
+{
+    "id": 202,
+    "title": "You must judge whether you have enough space to pass whenever you approach",
+    "a": "an oncoming vehicle or bicyclist.",
+    "b": "a hill, curve, intersection, or road obstruction.",
+    "c": "all of the above.",
+    "ans": "c"
+},
+{
+    "id": 203,
+    "title": "Do not pass if you are",
+    "a": "approaching a hill or curve and cannot see if other traffic is approaching.",
+    "b": "within 100 feet of an intersection, bridge, tunnel, railroad crossing, or other hazardous area.",
+    "c": "at crossroads and driveways.",
+    "d": "all of the above.",
+    "ans": "d"
+},
+{
+    "id": 204,
+    "title": "You may pass on the right only when",
+    "a": "an open highway has two or more lanes going in your direction.",
+    "b": "you are on a one-way street.",
+    "c": "the driver ahead of you is turning left and you can safely pass on the right.",
+    "d": "all of the above.",
+    "ans": "d"
+},
+{
+    "id": 205,
+    "title": "You should signal at least _________ before you turn.",
+    "a": "100 feet",
+    "b": "200 feet",
+    "c": "300 feet",
+    "ans": "a"
+},
+{
+    "id": 206,
+    "title": "Use your horn to alert oncoming traffic on narrow mountain roads where you cannot see at least _________ ahead.",
+    "a": "100 feet",
+    "b": "200 feet",
+    "c": "300 feet",
+    "ans": "b"
+},
+{
+    "id": 207,
+    "title": "Dim your high-beam headlights to low beams within _________ of a vehicle coming toward you.",
+    "a": "300 feet",
+    "b": "500 feet",
+    "c": "1,000 feet",
+    "ans": "b"
+},
+{
+    "id": 208,
+    "title": "Dim your high-beam headlights to low beams within _________ of a vehicle you are following.",
+    "a": "300 feet",
+    "b": "500 feet",
+    "c": "1,000 feet",
+    "ans": "a"
+},
+{
+    "id": 209,
+    "title": "Use your headlights when it is too dark to see from _________ away.",
+    "a": "300 feet",
+    "b": "500 feet",
+    "c": "1,000 feet",
+    "ans": "c"
+},
+{
+    "id": 210,
+    "title": "Use your headlights",
+    "a": "beginning 30 minutes after sunset.",
+    "b": "until 30 minutes before sunrise.",
+    "c": "all of the above.",
+    "ans": "c"
+},
+{
+    "id": 211,
+    "title": "It is illegal for you to drive if you have a Blood Alcohol Concentration (BAC) of",
+    "a": "0.01% or higher if you are under 21 years old.",
+    "b": "0.01% or higher at any age if you are on DUI probation.",
+    "c": "all of the above.",
+    "ans": "c"
+},
+{
+    "id": 212,
+    "title": "If you are over 21 years old, it is illegal for you to drive if you have a Blood Alcohol Concentration (BAC) of",
+    "a": "0.01% or higher.",
+    "b": "0.04% or higher.",
+    "c": "0.08% or higher.",
+    "ans": "c"
+},
+{
+    "id": 213,
+    "title": "It is illegal for you to drive if you have a Blood Alcohol Concentration (BAC) of",
+    "a": "0.04% or higher if you drive a vehicle that requires a commercial driver’s license.",
+    "b": "0.04% or higher if you are driving a passenger for hire.",
+    "c": "all of the above.",
+    "ans": "c"
+},
+{
+    "id": 214,
+    "title": "Your insurance must cover at least",
+    "a": "$15,000 for a single death or injury.",
+    "b": "$30,000 for death or injury to more than one person.",
+    "c": "$5,000 for property damage.",
+    "d": "all of the above.",
+    "ans": "d"
+},
+{
+    "id": 215,
+    "title": "The most common causes of collisions are",
+    "a": "driver distractions.",
+    "b": "unsafe speed.",
+    "c": "improper turns.",
+    "d": "all of the above.",
+    "ans": "d"
+},
+{
+    "id": 216,
+    "title": "The most common causes of collisions are",
+    "a": "not following the right-of-way rules.",
+    "b": "not following stop signals and signs.",
+    "c": "driving on the wrong side of the road.",
+    "d": "all of the above.",
+    "ans": "d"
+},
+{
+    "id": 217,
+    "title": "The most common causes of collisions are",
+    "a": "traveling faster or slower than the flow of traffic.",
+    "b": "following the right-of-way rules.",
+    "c": "following stop signals and signs.",
+    "ans": "a"
+},
+{
+    "id": 218,
+    "title": "If you are in a collision, you must report it to DMV within 10 days if",
+    "a": "the collision caused more than $1,000 in damage to property.",
+    "b": "anyone was injured or killed.",
+    "c": "all of the above.",
+    "ans": "c"
+},
+{
+    "id": 219,
+    "title": "When you buy a vehicle, you have _________ to transfer ownership to your name.",
+    "a": "7 days",
+    "b": "10 days",
+    "c": "20 days",
+    "ans": "b"
+},
+{
+    "id": 220,
+    "title": "You have _________ to register your vehicle after you become a resident or get a job in California.",
+    "a": "7 days",
+    "b": "10 days",
+    "c": "20 days",
+    "ans": "c"
+},
+{
+    "id": 221,
+    "title": "What blood alcohol concentration (BAC) is considered illegal for individuals over 21 years old to drive?",
+    "a": "0.08% or higher",
+    "b": "0.01% or higher",
+    "c": "0.04% or higher",
+    "d": "0.06% or higher",
+    "ans": "a"
+},
+{
+    "id": 222,
+    "title": "If you are under 21 years old, what BAC level is illegal for you to drive?",
+    "a": "0.08% or higher",
+    "b": "0.01% or higher",
+    "c": "0.04% or higher",
+    "d": "0.06% or higher",
+    "ans": "b"
+},
+{
+    "id": 223,
+    "title": "What is the maximum allowable BAC if you are on driving under the influence (DUI) probation, regardless of your age?",
+    "a": "0.08% or higher",
+    "b": "0.01% or higher",
+    "c": "0.04% or higher",
+    "d": "0.06% or higher",
+    "ans": "b"
+},
+{
+    "id": 224,
+    "title": "If you are driving a vehicle that requires a commercial driver's license, what BAC level is considered illegal?",
+    "a": "0.08% or higher",
+    "b": "0.01% or higher",
+    "c": "0.04% or higher",
+    "d": "0.06% or higher",
+    "ans": "c"
+},
+{
+    "id": 225,
+    "title": "When is it illegal to drive with a BAC of 0.04% or higher?",
+    "a": "if you are under 21 years old.",
+    "b": "if you are on DUI probation.",
+    "c": "if you are driving a passenger for hire.",
+    "d": "all of the above.",
+    "ans": "c"
+},
+{
+    "id": 226,
+    "title": "When must you report a collision to the DMV?",
+    "a": "if the collision resulted in any property damage.",
+    "b": "if anyone was injured or killed, regardless of the extent of injuries.",
+    "c": "if the collision caused more than $500 in damage to property.",
+    "ans": "b"
+},
+{
+    "id": 227,
+    "title": "What is the minimum threshold for property damage that requires reporting a collision to the DMV?",
+    "a": "$500 or higher.",
+    "b": "$1,000 or higher.",
+    "c": "$1,500 or higher.",
+    "d": "$2,000 or higher.",
+    "ans": "b"
+},
+{
+    "id": 228,
+    "title": "If a collision resulted in minor injuries, do you need to report it to the DMV?",
+    "a": "No, only major injuries need to be reported.",
+    "b": "Yes, regardless of the extent of injuries, it must be reported.",
+    "c": "No, unless the injured person requests a report.",
+    "d": "Yes, but only if there was significant property damage as well.",
+    "ans": "b"
+},
+{
+    "id": 229,
+    "title": "What does this sign mean?",
+    "a": "Roundabout Ahead",
+    "b": "Yield Ahead",
+    "c": "Stop Ahead",
+    "ans": "a",
+    "pic": "2.svg",
+    "hash": "svg"
+},
+{
+    "id": 230,
+    "title": "What does this sign mean?",
+    "a": "Stop Sign",
+    "b": "Yield Sign",
+    "c": "Slow Moving Vehicle",
+    "ans": "c",
+    "pic": "3.svg",
+    "hash": "svg"
+},
+{
+    "id": 231,
+    "title": "What does this sign mean?",
+    "a": "Keep to the Left of the Traffic Island",
+    "b": "Keep to the Right of the Traffic Island",
+    "c": "Lane Ends",
+    "ans": "b",
+    "pic": "4.svg",
+    "hash": "svg"
+},
+{
+    "id": 232,
+    "title": "What does this sign mean?",
+    "a": "Airport",
+    "b": "Commercial Vehicles Only",
+    "c": "Go Ahead",
+    "ans": "a",
+    "pic": "5.svg",
+    "hash": "svg"
+},
+{
+    "id": 233,
+    "title": "What does this sign mean?",
+    "a": "Added Lane",
+    "b": "T Intersection",
+    "c": "Merging Traffic",
+    "ans": "c",
+    "pic": "6.svg",
+    "hash": "svg"
+},
+{
+    "id": 234,
+    "title": "What does this sign mean?",
+    "a": "Turn Left Or Go Straight",
+    "b": "Turn Right Or Go Straight",
+    "c": "Go Straight",
+    "ans": "a",
+    "pic": "7.svg",
+    "hash": "svg"
+},
+{
+    "id": 235,
+    "title": "What does this sign mean?",
+    "a": "Winding Road",
+    "b": "Slippery When Wet",
+    "c": "Steep Hill Ahead",
+    "ans": "c",
+    "pic": "8.svg",
+    "hash": "svg"
+},
+{
+    "id": 236,
+    "title": "What does this sign mean?",
+    "a": "Crossroad",
+    "b": "T Intersection",
+    "c": "Y Intersection",
+    "ans": "b",
+    "pic": "13.svg",
+    "hash": "svg"
+},
+{
+    "id": 237,
+    "title": "What does this sign mean?",
+    "a": "Winding Road",
+    "b": "Slippery When Wet",
+    "c": "Curve",
+    "ans": "c",
+    "pic": "25.svg",
+    "hash": "svg"
+},
+{
+    "id": 238,
+    "title": "What does this sign mean?",
+    "a": "Highway Exit",
+    "b": "One Way",
+    "c": "Directional Arrow",
+    "d": "Keep Right",
+    "ans": "c",
+    "pic": "27.svg",
+    "hash": "svg"
+},
+{
+    "id": 239,
+    "title": "What does this sign mean?",
+    "a": "Yield Sign Ahead",
+    "b": "Stop Sign Ahead",
+    "c": "Do Not Enter Sign Ahead",
+    "d": "Railway Station Ahead",
+    "ans": "b",
+    "pic": "36.svg",
+    "hash": "svg"
+},
+{
+    "id": 240,
+    "title": "What does this sign mean?",
+    "a": "Radio Station",
+    "b": "Railroad Crossing",
+    "c": "Do Not Enter",
+    "d": "X-Ray Center",
+    "ans": "b",
+    "pic": "37.svg",
+    "hash": "svg"
+},
+{
+    "id": 241,
+    "title": "Which of these is not a pedestrian:",
+    "a": "Bicyclist.",
+    "b": "Disabled person using a wheelchair.",
+    "c": "Blind person with a cane.",
+    "ans": "a"
+},
+{
+    "id": 242,
+    "title": "Which of the following statements about blind spots is true?",
+    "a": "They are eliminated if you have one outside mirror on each side of the vehicle.",
+    "b": "Large trucks have bigger blind spots than most passenger vehicles.",
+    "c": "Blind spots can be checked by looking in your rear-view mirrors.",
+    "ans": "b"
+},
+{
+    "id": 243,
+    "title": "Which of these is considered a common cause of collision:",
+    "a": "unsafe speed.",
+    "b": "not following stop signs, signals, and signs.",
+    "c": "all of the above.",
+    "ans": "c"
+},
+{
+    "id": 244,
+    "title": "A person convicted of reckless driving or engaging in a speed contest that causes injury to another person is subject to:",
+    "a": "imprisonment and/or fine.",
+    "b": "community service.",
+    "c": "all of the above.",
+    "ans": "a"
+},
+{
+    "id": 245,
+    "title": "You may legally block an intersection:",
+    "a": "when you entered the intersection on the green light.",
+    "b": "during rush hour traffic.",
+    "c": "under no circumstances.",
+    "ans": "a"
+},
+{
+    "id": 246,
+    "title": "When you park on a hill, your vehicle could roll due to an equipment failure. Remember to:",
+    "a": "Leave the vehicle in neutral.",
+    "b": "Set the parking brake.",
+    "c": "Set the parking break and leave the vehicle in park.",
+    "ans": "c"
+},
+{
+    "id": 247,
+    "title": "With a Class C driver’s license, a person may drive a:",
+    "a": "Light rail train.",
+    "b": "Car, van, or pick-up truck.",
+    "c": "Semi-truck.",
+    "ans": "b"
+},
+{
+    "id": 248,
+    "title": "To turn left from a one-way street onto a one-way street, you should start your turn from:",
+    "a": "Any lane.",
+    "b": "The lane closest to the left curb.",
+    "c": "The lane in the center of the road.",
+    "ans": "b"
+},
+{
+    "id": 249,
+    "title": "If you are involved in a traffic collision with property damage of $1000 or more, you are required to complete and submit a written report (SR1) to:",
+    "a": "CHP.",
+    "b": "DMV.",
+    "c": "EDD.",
+    "ans": "b"
+},
+{
+    "id": 250,
+    "title": "Roadways are least slippery:",
+    "a": "On bridges in freezing temperatures.",
+    "b": "After it has been raining for a while.",
+    "c": "During the first rain after a dry spell.",
+    "ans": "c"
+}
+]
